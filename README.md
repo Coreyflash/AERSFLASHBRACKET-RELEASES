@@ -1,10 +1,10 @@
 # AERS Flash Bracket Full downloads
 
-## Full 1.4.101
+## Full 1.4.102
 
 Digital registration now guides pullers through **Name → Classes → Waiver & submit**. Compact class cards adapt to tablets and phones; guardian consent, rating review, signed waivers, and return receipts remain protected.
 
-Download the [Windows installer ZIP](https://github.com/Coreyflash/AERSFLASHBRACKET-RELEASES/releases/download/v1.4.101/AERS-Flash-Bracket-V1.4.101-Windows-Installer.zip), extract it, and run **AERS-Flash-Bracket-Setup.exe**. Use the desktop shortcut after setup.
+Download the [Windows installer ZIP](https://github.com/Coreyflash/AERSFLASHBRACKET-RELEASES/releases/download/v1.4.102/AERS-Flash-Bracket-V1.4.102-Windows-Installer.zip), extract it, and run **AERS-Flash-Bracket-Setup.exe**. Use the desktop shortcut after setup.
 
 See the [latest release](https://github.com/Coreyflash/AERSFLASHBRACKET-RELEASES/releases/latest) for the installer, signed automatic-update package, checksums, and release notes.
 
